@@ -1,7 +1,7 @@
 # Homework5_Group-34
 Group composed by: Eleonora Barocco, Mahtab Fotovat, Fabio Montello, Farid Rasulov
 
-![graph image](https://gridpredict.jp/wp-content/uploads/2018/03/TDAmainP.jpg)
+![graph image](data/TDAmainP.jpg)
 
 ### Homework 5 - Visit the Wikipedia hyperlinks graph!
 
